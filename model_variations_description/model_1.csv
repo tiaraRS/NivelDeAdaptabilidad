@@ -1,0 +1,8 @@
+﻿Variation,# of hidden Dense layers,learning_rate,batch_size,loss_fn,optimizer,Dense layer activation fn,Dense layer units,Dropout layer,best_test_loss,best_test_accuracy
+1,1,0.005,64,CategoricalCrossentropy,SGD,relu,20,no,0.495241,80.30%
+2,1,0.001,64,CategoricalCrossentropy,SGD,relu,20,no,0.495241,80.30%
+3,1,0.001,32,CategoricalCrossentropy,SGD,relu,64,no,0.464396,80.30%
+4,1,0.005,32,CategoricalCrossentropy,Adam,relu,128,no,0.342554,85%
+5,1,0.005,32,CategoricalCrossentropy,Adam,sigmoid,128,no,0.392604,85.50%
+6,1,0.005,32,CategoricalCrossentropy,Adam,tanh,128,no,0.415778,81.90%
+7,1,0.002,32,CategoricalCrossentropy,Adam,sigmoid,16,yes - 0.2,0.405858,82.90%

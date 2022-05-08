@@ -31,7 +31,7 @@ id,Nivel de Adaptación
 30,Moderado
 31,Moderado
 32,Bajo
-33,Alto
+33,Bajo
 34,Moderado
 35,Bajo
 36,Bajo
@@ -85,7 +85,7 @@ id,Nivel de Adaptación
 84,Moderado
 85,Moderado
 86,Alto
-87,Moderado
+87,Bajo
 88,Bajo
 89,Moderado
 90,Moderado
@@ -121,7 +121,7 @@ id,Nivel de Adaptación
 120,Bajo
 121,Moderado
 122,Bajo
-123,Alto
+123,Moderado
 124,Bajo
 125,Moderado
 126,Bajo
@@ -138,7 +138,7 @@ id,Nivel de Adaptación
 137,Bajo
 138,Bajo
 139,Bajo
-140,Moderado
+140,Alto
 141,Moderado
 142,Moderado
 143,Moderado
@@ -192,13 +192,13 @@ id,Nivel de Adaptación
 191,Moderado
 192,Moderado
 193,Bajo
-194,Moderado
-195,Moderado
+194,Bajo
+195,Bajo
 196,Bajo
 197,Bajo
 198,Bajo
 199,Bajo
-200,Bajo
+200,Moderado
 201,Bajo
 202,Bajo
 203,Moderado
@@ -218,12 +218,12 @@ id,Nivel de Adaptación
 217,Moderado
 218,Bajo
 219,Bajo
-220,Moderado
+220,Bajo
 221,Moderado
 222,Bajo
 223,Bajo
 224,Bajo
-225,Moderado
+225,Alto
 226,Moderado
 227,Moderado
 228,Bajo

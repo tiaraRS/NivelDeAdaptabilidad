@@ -1,6 +1,0 @@
-Variation;# of hidden Dense layers;learning_rate;batch_size;loss_fn;optimizer;Dense layer activation fn;Dense layer units;Dropout layer;best_test_loss;best_test_accuracy
-1;4;0.001;32;CategoricalCrossentropy;Adam;relu,relu,relu,relu;32_32_64_64;no;0.419721;81.9%
-2;4;0.01;32;CategoricalCrossentropy;Adam;relu,relu,relu,relu;32_32_64_64;no;0.328615;83.9%
-3;4;0.005;64;CategoricalCrossentropy;Adam;relu,relu,relu,relu;64_64_64_64;no;0.385139;83.9%
-4;4;0.001;64;CategoricalCrossentropy;Adam;relu,relu,relu,relu;16_16_16_16;no;0.417625;87.0%
-5;4;0.005;32;CategoricalCrossentropy;Adam;sigmoid,sigmoid,sigmoid,sigmoid;16_16_32_32;no;0.405291;82.9%
